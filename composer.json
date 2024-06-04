@@ -1,5 +1,6 @@
 {
   "name": "rtraction/shopifysdk",
+  "type": "drupal-module",
   "description": "Shopify PHP SDK to interact with the Shopify API.",
   "require": {
     "guzzlehttp/guzzle": "^7.2.0",
